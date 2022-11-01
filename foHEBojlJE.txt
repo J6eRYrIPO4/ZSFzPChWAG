@@ -1,3 +1,7 @@
-{ 
-thisisakey = "943648446" 
-}
+ local table = { 
+  
+ thisisakey = "943648446" 
+ }
+ 
+ 
+ return table
